@@ -22,6 +22,25 @@
     box-shadow: 0 .5rem 1rem rgba(68, 39, 114, 0.5);
 }
 
+.download-text{
+    font-size: 8px;
+}
+.apple-text
+{
+    font-size: 15px;
+    margin-top: -8px;
+}
+.down-app
+{
+   margin-top: -10px;
+}
+.google-play{
+    margin-left: -20px;
+}
+.play-text{
+    margin-left: -45px;
+    font-size: 8px;
+}
 
 @media screen and (max-width: 576px) {
     .carousel-item img{
